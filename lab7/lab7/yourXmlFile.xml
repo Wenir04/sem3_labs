@@ -1,0 +1,130 @@
+<ClassDiagram>
+  <Class name="CommentAttribute">
+    <Property>System.String Comment</Property>
+    <Property>System.Object TypeId</Property>
+    <Method>System.String get_Comment()</Method>
+    <Method>System.Object get_TypeId()</Method>
+    <Method>Boolean Equals(System.Object)</Method>
+    <Method>Int32 GetHashCode()</Method>
+    <Method>Boolean Match(System.Object)</Method>
+    <Method>Boolean IsDefaultAttribute()</Method>
+    <Method>System.Type GetType()</Method>
+    <Method>System.String ToString()</Method>
+  </Class>
+  <Enum name="eClassificationAnimal">
+    <Comment>Types of animals enumeration</Comment>
+    <Method>Boolean Equals(System.Object)</Method>
+    <Method>Boolean HasFlag(System.Enum)</Method>
+    <Method>Int32 GetHashCode()</Method>
+    <Method>System.String ToString()</Method>
+    <Method>Int32 CompareTo(System.Object)</Method>
+    <Method>System.String ToString(System.String, System.IFormatProvider)</Method>
+    <Method>System.String ToString(System.String)</Method>
+    <Method>System.String ToString(System.IFormatProvider)</Method>
+    <Method>System.TypeCode GetTypeCode()</Method>
+    <Method>System.Type GetType()</Method>
+  </Enum>
+  <Enum name="eFavoriteFood">
+    <Comment>Favorite food enumeration</Comment>
+    <Method>Boolean Equals(System.Object)</Method>
+    <Method>Boolean HasFlag(System.Enum)</Method>
+    <Method>Int32 GetHashCode()</Method>
+    <Method>System.String ToString()</Method>
+    <Method>Int32 CompareTo(System.Object)</Method>
+    <Method>System.String ToString(System.String, System.IFormatProvider)</Method>
+    <Method>System.String ToString(System.String)</Method>
+    <Method>System.String ToString(System.IFormatProvider)</Method>
+    <Method>System.TypeCode GetTypeCode()</Method>
+    <Method>System.Type GetType()</Method>
+  </Enum>
+  <Class name="Animal">
+    <Comment>Abstract class for creating animals</Comment>
+    <Property>System.String Country</Property>
+    <Property>Boolean HideFromOtherAnimals</Property>
+    <Property>System.String Name</Property>
+    <Property>AnimalClasses.eClassificationAnimal GetClassificationAnimal</Property>
+    <Method>System.String get_Country()</Method>
+    <Method>Void set_Country(System.String)</Method>
+    <Method>Boolean get_HideFromOtherAnimals()</Method>
+    <Method>Void set_HideFromOtherAnimals(Boolean)</Method>
+    <Method>System.String get_Name()</Method>
+    <Method>Void set_Name(System.String)</Method>
+    <Method>AnimalClasses.eClassificationAnimal get_GetClassificationAnimal()</Method>
+    <Method>Void Deconstruct(System.String ByRef, Boolean ByRef, System.String ByRef, AnimalClasses.eClassificationAnimal ByRef)</Method>
+    <Method>AnimalClasses.eFavoriteFood GetFavoriteFood()</Method>
+    <Method>Void SayHello()</Method>
+    <Method>System.Type GetType()</Method>
+    <Method>System.String ToString()</Method>
+    <Method>Boolean Equals(System.Object)</Method>
+    <Method>Int32 GetHashCode()</Method>
+  </Class>
+  <Class name="Cow">
+    <Comment>Class for cow</Comment>
+    <Property>System.String Country</Property>
+    <Property>Boolean HideFromOtherAnimals</Property>
+    <Property>System.String Name</Property>
+    <Property>AnimalClasses.eClassificationAnimal GetClassificationAnimal</Property>
+    <Method>System.String get_Country()</Method>
+    <Method>Void set_Country(System.String)</Method>
+    <Method>Boolean get_HideFromOtherAnimals()</Method>
+    <Method>Void set_HideFromOtherAnimals(Boolean)</Method>
+    <Method>System.String get_Name()</Method>
+    <Method>Void set_Name(System.String)</Method>
+    <Method>AnimalClasses.eClassificationAnimal get_GetClassificationAnimal()</Method>
+    <Method>AnimalClasses.eFavoriteFood GetFavoriteFood()</Method>
+    <Method>Void SayHello()</Method>
+    <Method>Void Deconstruct(System.String ByRef, Boolean ByRef, System.String ByRef, AnimalClasses.eClassificationAnimal ByRef)</Method>
+    <Method>System.Type GetType()</Method>
+    <Method>System.String ToString()</Method>
+    <Method>Boolean Equals(System.Object)</Method>
+    <Method>Int32 GetHashCode()</Method>
+  </Class>
+  <Class name="Lion">
+    <Comment>Class for lion</Comment>
+    <Property>System.String Country</Property>
+    <Property>Boolean HideFromOtherAnimals</Property>
+    <Property>System.String Name</Property>
+    <Property>AnimalClasses.eClassificationAnimal GetClassificationAnimal</Property>
+    <Method>System.String get_Country()</Method>
+    <Method>Void set_Country(System.String)</Method>
+    <Method>Boolean get_HideFromOtherAnimals()</Method>
+    <Method>Void set_HideFromOtherAnimals(Boolean)</Method>
+    <Method>System.String get_Name()</Method>
+    <Method>Void set_Name(System.String)</Method>
+    <Method>AnimalClasses.eClassificationAnimal get_GetClassificationAnimal()</Method>
+    <Method>AnimalClasses.eFavoriteFood GetFavoriteFood()</Method>
+    <Method>Void SayHello()</Method>
+    <Method>Void Deconstruct(System.String ByRef, Boolean ByRef, System.String ByRef, AnimalClasses.eClassificationAnimal ByRef)</Method>
+    <Method>System.Type GetType()</Method>
+    <Method>System.String ToString()</Method>
+    <Method>Boolean Equals(System.Object)</Method>
+    <Method>Int32 GetHashCode()</Method>
+  </Class>
+  <Class name="Pig">
+    <Comment>Class for pig</Comment>
+    <Property>System.String Country</Property>
+    <Property>Boolean HideFromOtherAnimals</Property>
+    <Property>System.String Name</Property>
+    <Property>AnimalClasses.eClassificationAnimal GetClassificationAnimal</Property>
+    <Method>System.String get_Country()</Method>
+    <Method>Void set_Country(System.String)</Method>
+    <Method>Boolean get_HideFromOtherAnimals()</Method>
+    <Method>Void set_HideFromOtherAnimals(Boolean)</Method>
+    <Method>System.String get_Name()</Method>
+    <Method>Void set_Name(System.String)</Method>
+    <Method>AnimalClasses.eClassificationAnimal get_GetClassificationAnimal()</Method>
+    <Method>AnimalClasses.eFavoriteFood GetFavoriteFood()</Method>
+    <Method>Void SayHello()</Method>
+    <Method>Void Deconstruct(System.String ByRef, Boolean ByRef, System.String ByRef, AnimalClasses.eClassificationAnimal ByRef)</Method>
+    <Method>System.Type GetType()</Method>
+    <Method>System.String ToString()</Method>
+    <Method>Boolean Equals(System.Object)</Method>
+    <Method>Int32 GetHashCode()</Method>
+  </Class>
+  <Class name="Program">
+    <Method>System.Type GetType()</Method>
+    <Method>System.String ToString()</Method>
+    <Method>Boolean Equals(System.Object)</Method>
+    <Method>Int32 GetHashCode()</Method>
+  </Class>
+</ClassDiagram>
