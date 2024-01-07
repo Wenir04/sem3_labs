@@ -1,0 +1,14 @@
+C:\Users\kolob\OneDrive\Рабочий стол\sem3\lab2\tapsk2\bin\Debug\net6.0\tapsk2.exe
+C:\Users\kolob\OneDrive\Рабочий стол\sem3\lab2\tapsk2\bin\Debug\net6.0\tapsk2.deps.json
+C:\Users\kolob\OneDrive\Рабочий стол\sem3\lab2\tapsk2\bin\Debug\net6.0\tapsk2.runtimeconfig.json
+C:\Users\kolob\OneDrive\Рабочий стол\sem3\lab2\tapsk2\bin\Debug\net6.0\tapsk2.dll
+C:\Users\kolob\OneDrive\Рабочий стол\sem3\lab2\tapsk2\bin\Debug\net6.0\tapsk2.pdb
+C:\Users\kolob\OneDrive\Рабочий стол\sem3\lab2\tapsk2\obj\Debug\net6.0\tapsk2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolob\OneDrive\Рабочий стол\sem3\lab2\tapsk2\obj\Debug\net6.0\tapsk2.AssemblyInfoInputs.cache
+C:\Users\kolob\OneDrive\Рабочий стол\sem3\lab2\tapsk2\obj\Debug\net6.0\tapsk2.AssemblyInfo.cs
+C:\Users\kolob\OneDrive\Рабочий стол\sem3\lab2\tapsk2\obj\Debug\net6.0\tapsk2.csproj.CoreCompileInputs.cache
+C:\Users\kolob\OneDrive\Рабочий стол\sem3\lab2\tapsk2\obj\Debug\net6.0\tapsk2.dll
+C:\Users\kolob\OneDrive\Рабочий стол\sem3\lab2\tapsk2\obj\Debug\net6.0\refint\tapsk2.dll
+C:\Users\kolob\OneDrive\Рабочий стол\sem3\lab2\tapsk2\obj\Debug\net6.0\tapsk2.pdb
+C:\Users\kolob\OneDrive\Рабочий стол\sem3\lab2\tapsk2\obj\Debug\net6.0\tapsk2.genruntimeconfig.cache
+C:\Users\kolob\OneDrive\Рабочий стол\sem3\lab2\tapsk2\obj\Debug\net6.0\ref\tapsk2.dll
