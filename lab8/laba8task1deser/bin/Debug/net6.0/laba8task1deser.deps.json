@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "laba8task1deser/1.0.0": {
+        "runtime": {
+          "laba8task1deser.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "laba8task1deser/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

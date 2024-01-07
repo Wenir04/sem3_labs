@@ -1,0 +1,14 @@
+C:\Users\kolob\OneDrive\Рабочий стол\sem3\laba8\laba8task1deser\bin\Debug\net6.0\laba8task1deser.exe
+C:\Users\kolob\OneDrive\Рабочий стол\sem3\laba8\laba8task1deser\bin\Debug\net6.0\laba8task1deser.deps.json
+C:\Users\kolob\OneDrive\Рабочий стол\sem3\laba8\laba8task1deser\bin\Debug\net6.0\laba8task1deser.runtimeconfig.json
+C:\Users\kolob\OneDrive\Рабочий стол\sem3\laba8\laba8task1deser\bin\Debug\net6.0\laba8task1deser.dll
+C:\Users\kolob\OneDrive\Рабочий стол\sem3\laba8\laba8task1deser\bin\Debug\net6.0\laba8task1deser.pdb
+C:\Users\kolob\OneDrive\Рабочий стол\sem3\laba8\laba8task1deser\obj\Debug\net6.0\laba8task1deser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolob\OneDrive\Рабочий стол\sem3\laba8\laba8task1deser\obj\Debug\net6.0\laba8task1deser.AssemblyInfoInputs.cache
+C:\Users\kolob\OneDrive\Рабочий стол\sem3\laba8\laba8task1deser\obj\Debug\net6.0\laba8task1deser.AssemblyInfo.cs
+C:\Users\kolob\OneDrive\Рабочий стол\sem3\laba8\laba8task1deser\obj\Debug\net6.0\laba8task1deser.csproj.CoreCompileInputs.cache
+C:\Users\kolob\OneDrive\Рабочий стол\sem3\laba8\laba8task1deser\obj\Debug\net6.0\laba8task1deser.dll
+C:\Users\kolob\OneDrive\Рабочий стол\sem3\laba8\laba8task1deser\obj\Debug\net6.0\refint\laba8task1deser.dll
+C:\Users\kolob\OneDrive\Рабочий стол\sem3\laba8\laba8task1deser\obj\Debug\net6.0\laba8task1deser.pdb
+C:\Users\kolob\OneDrive\Рабочий стол\sem3\laba8\laba8task1deser\obj\Debug\net6.0\laba8task1deser.genruntimeconfig.cache
+C:\Users\kolob\OneDrive\Рабочий стол\sem3\laba8\laba8task1deser\obj\Debug\net6.0\ref\laba8task1deser.dll

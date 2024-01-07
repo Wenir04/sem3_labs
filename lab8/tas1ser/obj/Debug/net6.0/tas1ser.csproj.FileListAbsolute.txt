@@ -1,0 +1,14 @@
+C:\Users\kolob\OneDrive\Рабочий стол\sem3\laba8\tas1ser\bin\Debug\net6.0\tas1ser.exe
+C:\Users\kolob\OneDrive\Рабочий стол\sem3\laba8\tas1ser\bin\Debug\net6.0\tas1ser.deps.json
+C:\Users\kolob\OneDrive\Рабочий стол\sem3\laba8\tas1ser\bin\Debug\net6.0\tas1ser.runtimeconfig.json
+C:\Users\kolob\OneDrive\Рабочий стол\sem3\laba8\tas1ser\bin\Debug\net6.0\tas1ser.dll
+C:\Users\kolob\OneDrive\Рабочий стол\sem3\laba8\tas1ser\bin\Debug\net6.0\tas1ser.pdb
+C:\Users\kolob\OneDrive\Рабочий стол\sem3\laba8\tas1ser\obj\Debug\net6.0\tas1ser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolob\OneDrive\Рабочий стол\sem3\laba8\tas1ser\obj\Debug\net6.0\tas1ser.AssemblyInfoInputs.cache
+C:\Users\kolob\OneDrive\Рабочий стол\sem3\laba8\tas1ser\obj\Debug\net6.0\tas1ser.AssemblyInfo.cs
+C:\Users\kolob\OneDrive\Рабочий стол\sem3\laba8\tas1ser\obj\Debug\net6.0\tas1ser.csproj.CoreCompileInputs.cache
+C:\Users\kolob\OneDrive\Рабочий стол\sem3\laba8\tas1ser\obj\Debug\net6.0\tas1ser.dll
+C:\Users\kolob\OneDrive\Рабочий стол\sem3\laba8\tas1ser\obj\Debug\net6.0\refint\tas1ser.dll
+C:\Users\kolob\OneDrive\Рабочий стол\sem3\laba8\tas1ser\obj\Debug\net6.0\tas1ser.pdb
+C:\Users\kolob\OneDrive\Рабочий стол\sem3\laba8\tas1ser\obj\Debug\net6.0\tas1ser.genruntimeconfig.cache
+C:\Users\kolob\OneDrive\Рабочий стол\sem3\laba8\tas1ser\obj\Debug\net6.0\ref\tas1ser.dll
